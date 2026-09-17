@@ -21,12 +21,18 @@ astro-performance-lab/
 ├── AUDITORIA.md
 └── assets/
     └── img/
-        ├── hero-cosmos.jpg
+        ├── hero-cosmos.jpg 
+        https://res.cloudinary.com/dkeu1rgrm/image/upload/v1789673898/hero-cosmos_tczcix.jpg
         ├── andromeda.jpg
+        https://res.cloudinary.com/dkeu1rgrm/image/upload/v1789673889/andromeda_yw826t.jpg
         ├── orion.jpg
-        ├── lunar-horizon.jpg
+        https://res.cloudinary.com/dkeu1rgrm/image/upload/v1789673891/orion_kfemi7.jpg
+        ├── lunar-horizon.jpg 
+        https://res.cloudinary.com/dkeu1rgrm/image/upload/v1789673886/lunar-horizon_cu8glp.jpg
         ├── exoplanet.jpg
-        └── deep-field.jpg
+        https://res.cloudinary.com/dkeu1rgrm/image/upload/v1789673893/exoplanet_njwv79.jpg
+        └── deep-field.jpg 
+        https://res.cloudinary.com/dkeu1rgrm/image/upload/v1789673886/deep-field_grr0me.jpg
 ```
 
 ## Antes de comenzar
